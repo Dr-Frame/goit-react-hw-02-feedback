@@ -1,0 +1,8 @@
+.Feedback__list {
+  display: flex;
+  list-style-type: none;
+}
+
+.Feedback__item {
+  margin-right: 20px;
+}
